@@ -16,6 +16,8 @@
 <li>11.py： 列表生成式，语法[表达式 for in if语句]</li>
 <li>12.py： generator对象，包括生成器和带yield的generator函数</li>
 <li>13.py： Iterable可迭代对象和Iterator迭代器对象</li>
+<li>14.py： 高阶函数(函数作为参数)：map()、reduce()、filter()、sorted()；匿名函数 语法：lambda 参数列表:返回值</li>
+<li>15.py： 函数作为返回值，闭包操作</li>
 </ul>
 </li>
 <li>Math： 算法学习记录
