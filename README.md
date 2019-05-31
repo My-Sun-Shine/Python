@@ -21,6 +21,10 @@
 <li>Learn16.py： 装饰器decorator 不修改函数本身的定义，在代码运行期动态的增加功能的方法</li>
 <li>Learn17.py： functools.partial偏函数把一个函数的某些参数给固定住，也就是设置默认值，返回一个新的函数</li>
 <li>Learn18.py： python 模板使用的部分练习</li>
+<li>Learn19.py： 类class和类的实例，类的静态变量和实例的self的实例变量</li>
+<li>Learn20.py： 私有化实例变量，但是不能彻底限制私有</li>
+<li>Learn21.py： 类的继承和多态</li>
+<li>Learn22.py： type()和isinstance()判断是否是该类型，getattr()、setattr()、hasattr()用来判断实例的属性或者方法</li>
 </ul>
 </li>
 <li>Math： 算法学习记录
