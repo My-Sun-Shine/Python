@@ -18,6 +18,8 @@
 <li>13.py： Iterable可迭代对象和Iterator迭代器对象</li>
 <li>14.py： 高阶函数(函数作为参数)：map()、reduce()、filter()、sorted()；匿名函数 语法：lambda 参数列表:返回值</li>
 <li>15.py： 函数作为返回值，闭包操作</li>
+<li>16.py： 装饰器decorator 不修改函数本身的定义，在代码运行期动态的增加功能的方法</li>
+<li>17.py： functools.partial偏函数把一个函数的某些参数给固定住，也就是设置默认值，返回一个新的函数</li>
 </ul>
 </li>
 <li>Math： 算法学习记录
