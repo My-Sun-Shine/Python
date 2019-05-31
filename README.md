@@ -20,6 +20,7 @@
 <li>Learn15.py： 函数作为返回值，闭包操作</li>
 <li>Learn16.py： 装饰器decorator 不修改函数本身的定义，在代码运行期动态的增加功能的方法</li>
 <li>Learn17.py： functools.partial偏函数把一个函数的某些参数给固定住，也就是设置默认值，返回一个新的函数</li>
+<li>Learn18.py： python 模板使用的部分练习</li>
 </ul>
 </li>
 <li>Math： 算法学习记录
