@@ -25,6 +25,12 @@
 <li>Learn20.py： 私有化实例变量，但是不能彻底限制私有</li>
 <li>Learn21.py： 类的继承和多态</li>
 <li>Learn22.py： type()和isinstance()判断是否是该类型，getattr()、setattr()、hasattr()用来判断实例的属性或者方法</li>
+<li>Learn23.py： __slots__的使用，限制实例添加属性，提高创建实例的速度，节约内存</li>
+<li>Learn24.py： 使用@property把一个getter方法变成属性进行访问，而它本身又创建一个@score.setter，负责把一个setter变成属性</li>
+<li>Learn25.py： 多重继承 一个子类继承父类所有的功能</li>
+<li>Learn26.py： 使用定制方法定制类(__str__、__repr__、__call__、__iter__、__getitem__等)</li>
+<li>Learn27.py： 枚举类Enum</li>
+<li>Learn28.py： type()方法创建一个class对象，元组metaclass，__new__()方法</li>
 </ul>
 </li>
 <li>Math： 算法学习记录
