@@ -1,4 +1,5 @@
 # Learn： Python 学习记录
+
 <ul>
 <li>Learn01.py： Hello,World</li>
 <li>Learn02.py： 输入输出函数，基本数据类型，变量，常量，/、//、%的区别</li>
@@ -32,4 +33,8 @@
 <li>Learn30.py： 错误处理机制 try...except...else...finally...</li>
 <li>Learn31.py： 单元测试，unittest模块</li>
 <li>Learn32.py： 文档测试，doctest模块</li>
+<li>Learn33.py： 文件读写操作</li>
+<li>Learn34.py： 从内存中读取 StringIO和BytesIO</li>
+<li>Learn35.py： 操作文件和目录，os模块，os.path模块</li>
+<li>Learn36.py： 序列化和反序列化，json模块(dumps方法可选参数)，pickle模块，</li>
 </ul>
