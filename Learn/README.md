@@ -29,4 +29,7 @@
 <li>Learn27.py： 枚举类Enum</li>
 <li>Learn28.py： type()方法创建一个class对象，元组metaclass，__new__()方法</li>
 <li>Learn29.py： ORM框架的小实例</li>
+<li>Learn30.py： 错误处理机制 try...except...else...finally...</li>
+<li>Learn31.py： 单元测试，unittest模块</li>
+<li>Learn32.py： 文档测试，doctest模块</li>
 </ul>
