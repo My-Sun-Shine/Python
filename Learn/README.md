@@ -28,4 +28,5 @@
 <li>Learn26.py： 使用定制方法定制类(__str__、__repr__、__call__、__iter__、__getitem__等)</li>
 <li>Learn27.py： 枚举类Enum</li>
 <li>Learn28.py： type()方法创建一个class对象，元组metaclass，__new__()方法</li>
+<li>Learn29.py： ORM框架的小实例</li>
 </ul>
