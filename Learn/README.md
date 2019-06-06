@@ -36,5 +36,7 @@
 <li>Learn33.py： 文件读写操作</li>
 <li>Learn34.py： 从内存中读取 StringIO和BytesIO</li>
 <li>Learn35.py： 操作文件和目录，os模块，os.path模块</li>
-<li>Learn36.py： 序列化和反序列化，json模块(dumps方法可选参数)，pickle模块，</li>
+<li>Learn36.py： 序列化和反序列化，json模块(dumps方法可选参数)，pickle模块</li>
+<li>Learn37.py： 多进程，multiprocessing模块下的Process, Pool进程池，进程之间进行通信</li>
+<li>Learn38.py： 多线程，threading模块，lock锁</li>
 </ul>
