@@ -1,4 +1,4 @@
-# Python
+# Python3.7
 
 <ul>
 <li>Learn： Python 学习记录</li>
