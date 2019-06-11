@@ -39,4 +39,5 @@
 <li>Learn36.py： 序列化和反序列化，json模块(dumps方法可选参数)，pickle模块</li>
 <li>Learn37.py： 多进程，multiprocessing模块下的Process, Pool进程池，进程之间进行通信</li>
 <li>Learn38.py： 多线程，threading模块，lock锁</li>
+<li>Learn39.py： ThreadLocal类型对象，是一个全局变量，但是每个线程都只能读写自己线程的独立副本，互不影响</li>
 </ul>
