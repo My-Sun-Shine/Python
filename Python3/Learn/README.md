@@ -47,4 +47,5 @@
 <li>Learn45.py： hashlib模块 提供常见的算法，MD5、SHA1</li>
 <li>Learn46.py： hmac模块的Hmac算法</li>
 <li>Learn47.py： itertools 提供用于操作迭代对象的函数</li>
+<li>Learn48.py： urllib模块提供一系列用于操作URL的功能</li>
 </ul>
