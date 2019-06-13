@@ -46,4 +46,5 @@
 <li>Learn44.py： struct模块解决bytes和其他二进制数据类型转换</li>
 <li>Learn45.py： hashlib模块 提供常见的算法，MD5、SHA1</li>
 <li>Learn46.py： hmac模块的Hmac算法</li>
+<li>Learn47.py： itertools 提供用于操作迭代对象的函数</li>
 </ul>
