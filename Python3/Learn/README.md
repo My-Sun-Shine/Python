@@ -48,4 +48,6 @@
 <li>Learn46.py： hmac模块的Hmac算法</li>
 <li>Learn47.py： itertools 提供用于操作迭代对象的函数</li>
 <li>Learn48.py： urllib模块提供一系列用于操作URL的功能</li>
+<li>Learn49.py： xml.parsers.expat中ParserCreate模块 使用SAX解析XML</li>
+
 </ul>
