@@ -45,4 +45,5 @@
 <li>Learn42.py： collections集合模块，namedtuple, deque, defaultdict, OrderedDict, ChainMap, Counter</li>
 <li>Learn44.py： struct模块解决bytes和其他二进制数据类型转换</li>
 <li>Learn45.py： hashlib模块 提供常见的算法，MD5、SHA1</li>
+<li>Learn46.py： hmac模块的Hmac算法</li>
 </ul>
