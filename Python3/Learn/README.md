@@ -42,4 +42,5 @@
 <li>Learn39.py： ThreadLocal类型对象，是一个全局变量，但是每个线程都只能读写自己线程的独立副本，互不影响</li>
 <li>Learn40.py： 正则表达式</li>
 <li>Learn41.py： datetime模块，timestamp、datetime、str之间的转换，datetime加减，时区绑定以及转换</li>
+<li>Learn42.py： collections集合模块，namedtuple, deque, defaultdict, OrderedDict, ChainMap, Counter</li>
 </ul>
