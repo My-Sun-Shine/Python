@@ -62,4 +62,5 @@
 <li>Learn60.py： turtle模块 海龟绘图画雪中的树</li>
 <li>Learn61.py： turtle模块 海龟绘图画春秋时节的树</li>
 <li>Learn62.py： turtle模块 海龟绘图画雪中的树加随机飘落</li>
+<li>Learn62.py： smtplib模块发生邮件，email模块编写文本邮件和HTML邮件</li>
 </ul>
