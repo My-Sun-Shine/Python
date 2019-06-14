@@ -55,4 +55,5 @@
 <li>Learn53.py： requests模块 操作URL资源</li>
 <li>Learn54.py： chardet模块 检测编码，支持检测中文，日文，韩文</li>
 <li>Learn55.py： psutil模块获取系统信息</li>
+<li>Learn56.py： tkinter模块 GUI程序</li>
 </ul>
