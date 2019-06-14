@@ -56,4 +56,10 @@
 <li>Learn54.py： chardet模块 检测编码，支持检测中文，日文，韩文</li>
 <li>Learn55.py： psutil模块获取系统信息</li>
 <li>Learn56.py： tkinter模块 GUI程序</li>
+<li>Learn57.py： turtle模块 海龟绘图画矩形</li>
+<li>Learn58.py： turtle模块 海龟绘图画五角星</li>
+<li>Learn59.py： turtle模块 海龟绘图画树</li>
+<li>Learn60.py： turtle模块 海龟绘图画雪中的树</li>
+<li>Learn61.py： turtle模块 海龟绘图画春秋时节的树</li>
+<li>Learn62.py： turtle模块 海龟绘图画雪中的树加随机飘落</li>
 </ul>
