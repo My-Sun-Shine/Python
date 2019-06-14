@@ -51,4 +51,8 @@
 <li>Learn49.py： xml.parsers.expat中ParserCreate模块 使用SAX解析XML</li>
 <li>Learn50.py： HTMLParser模块 解析HTML</li>
 <li>Learn51.py： 上下文管理器 使用__enter__和__exit__实现，或者contextmanager装饰器</li>
+<li>Learn52.py： PIL模块图像缩放、切片、旋转、滤镜、输出文字、调色板</li>
+<li>Learn53.py： requests模块 操作URL资源</li>
+<li>Learn54.py： chardet模块 检测编码，支持检测中文，日文，韩文</li>
+<li>Learn55.py： psutil模块获取系统信息</li>
 </ul>

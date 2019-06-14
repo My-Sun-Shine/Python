@@ -1,0 +1,15 @@
+# chardet 检测编码，支持检测中文，日文，韩文
+import chardet
+print(chardet.detect(b"Hello,world!"))
+data = "中文".encode("Gbk")
+print(chardet.detect(data))
+data = "中文".encode("UTF-8")
+print(chardet.detect(data))
+data = '最新の主要ニュース'.encode('euc-jp')
+print(chardet.detect(data))
+data = '淆始贪级耻擅哑鸿铁狮力贵拓碌淆始贪级耻擅哑鸿铁狮力贵拓碌'.encode('gbk')
+print(chardet.detect(data))
+data='天王盖地虎,小鸡炖蘑菇'.encode('GBK')
+print(chardet.detect(data))
+data='天王盖地虎'.encode('GBK')
+print(chardet.detect(data))
