@@ -43,6 +43,7 @@
 <li>Learn40.py： 正则表达式</li>
 <li>Learn41.py： datetime模块，timestamp、datetime、str之间的转换，datetime加减，时区绑定以及转换</li>
 <li>Learn42.py： collections集合模块，namedtuple, deque, defaultdict, OrderedDict, ChainMap, Counter</li>
+<li>Learn43.py： base64集合模块，使用64个字符表示任意二进制数据的方法</li>
 <li>Learn44.py： struct模块解决bytes和其他二进制数据类型转换</li>
 <li>Learn45.py： hashlib模块 提供常见的算法，MD5、SHA1</li>
 <li>Learn46.py： hmac模块的Hmac算法</li>
