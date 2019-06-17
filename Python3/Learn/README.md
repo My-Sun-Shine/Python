@@ -63,5 +63,7 @@
 <li>Learn60.py： turtle模块 海龟绘图画雪中的树</li>
 <li>Learn61.py： turtle模块 海龟绘图画春秋时节的树</li>
 <li>Learn62.py： turtle模块 海龟绘图画雪中的树加随机飘落</li>
-<li>Learn62.py： smtplib模块发生邮件，email模块编写文本邮件和HTML邮件</li>
+<li>Learn63.py： smtplib模块发生邮件，email模块编写文本邮件和HTML邮件</li>
+<li>Learn64.py： smtplib模块发生邮件，MIMEMultipart发送带有附件的邮件</li>
+<li>Learn65.py： smtplib模块发生邮件，发送可以显示图片在邮件内容的邮件</li>
 </ul>
