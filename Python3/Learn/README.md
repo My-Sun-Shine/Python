@@ -72,4 +72,5 @@
 <li>Learn69.py： sqlalchemy模块，Python中的ORM框架</li>
 <li>Learn70.py： python开发web demo</li>
 <li>Learn71.py： python开发web flash框架学习</li>
+<li>Learn72.py： python开发web flash框架使用默认的jinja2模板学习</li>
 </ul>
