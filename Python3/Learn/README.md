@@ -69,4 +69,5 @@
 <li>Learn66.py： poplib模块收邮件，并解析邮件内容</li>
 <li>Learn67.py： sqlite3模块使用SQLite数据库</li>
 <li>Learn68.py： mysql.connector模块连接MySQL数据库</li>
+<li>Learn69.py： sqlalchemy模块，Python中的ORM框架</li>
 </ul>
