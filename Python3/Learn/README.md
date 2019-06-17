@@ -67,4 +67,6 @@
 <li>Learn64.py： smtplib模块发生邮件，MIMEMultipart发送带有附件的邮件</li>
 <li>Learn65.py： smtplib模块发生邮件，发送可以显示图片在邮件内容的邮件</li>
 <li>Learn66.py： poplib模块收邮件，并解析邮件内容</li>
+<li>Learn67.py： sqlite3模块使用SQLite数据库</li>
+<li>Learn68.py： mysql.connector模块连接MySQL数据库</li>
 </ul>
