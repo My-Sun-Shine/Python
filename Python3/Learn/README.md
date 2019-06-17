@@ -70,4 +70,5 @@
 <li>Learn67.py： sqlite3模块使用SQLite数据库</li>
 <li>Learn68.py： mysql.connector模块连接MySQL数据库</li>
 <li>Learn69.py： sqlalchemy模块，Python中的ORM框架</li>
+<li>Learn70.py： python开发web demo</li>
 </ul>
