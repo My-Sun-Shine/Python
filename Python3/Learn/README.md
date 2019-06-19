@@ -73,4 +73,8 @@
 <li>Learn70.py： python开发web demo</li>
 <li>Learn71.py： python开发web flash框架学习</li>
 <li>Learn72.py： python开发web flash框架使用默认的jinja2模板学习</li>
+<li>Learn73.py： python开发异步IO，协程编程</li>
+<li>Learn74.py： python开发异步IO，asyncio的编程模型</li>
+<li>Learn75.py： python开发异步IO，async和await编程</li>
+<li>Learn76.py： python开发异步IO，aiohttp则是基于asyncio实现的HTTP框架</li>
 </ul>
