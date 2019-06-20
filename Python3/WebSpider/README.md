@@ -3,5 +3,8 @@
 <ul>
 <li>Cnblogs_1.py： 使用urllib库爬取博客园文章，pyquery库分析文章，并存储至MySQL</li>
 <li>Cnblogs_2.py： 使用urllib库爬取博客园文章，BeautifulSoup库分析文章，并存储至MySQL</li>
+<li>GitHub_Login.py： 使用requests库的Session方法保持同一个cookie，模拟GitHub登录</li>
+<li>Glory_of_Kings.py： 使用urllib库或者requests库，王者荣耀皮肤下载</li>
+<li>MaoYan_Top100.py： 使用requests库爬取猫眼电影排行榜前100，存储到txt文件中</li>
 <li>cnblogs.sql： Cnblogs_1.py和Cnblogs_2.py使用mMySQL数据库表</li>
 </ul>
