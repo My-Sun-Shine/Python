@@ -77,4 +77,5 @@
 <li>Learn74.py： python开发异步IO，asyncio的编程模型</li>
 <li>Learn75.py： python开发异步IO，async和await编程</li>
 <li>Learn76.py： python开发异步IO，aiohttp则是基于asyncio实现的HTTP框架</li>
+<li>Learn77.py： Python Web测试工具(Selenium)</li>
 </ul>
