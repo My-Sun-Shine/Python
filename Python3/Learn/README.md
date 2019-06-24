@@ -79,4 +79,5 @@
 <li>Learn76.py： python开发异步IO，aiohttp则是基于asyncio实现的HTTP框架</li>
 <li>Learn77.py： Python Web测试工具(Selenium)</li>
 <li>Learn78.py： jieba模块：第三方python 中文分词组件</li>
+<li>Learn79.py： wordcloud模块：第三方python 中文词云</li>
 </ul>
