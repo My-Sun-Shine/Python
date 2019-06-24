@@ -7,6 +7,10 @@ def show(cut_text):
     :return: None
     """
     from wordcloud import WordCloud
+<<<<<<< HEAD
+=======
+    import cv2
+>>>>>>> 7dcfebed03de5948e4f4618c1ca665ffbffc6c32
     import matplotlib.pyplot as plt
     stopwords = {'这些': 0, '那些': 0, '因为': 0, '所以': 0, "哪里": 0}  # 噪声词
     # 文本
