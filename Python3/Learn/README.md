@@ -80,4 +80,6 @@
 <li>Learn77.py： Python Web测试工具(Selenium)</li>
 <li>Learn78.py： jieba模块：第三方python 中文分词组件</li>
 <li>Learn79.py： wordcloud模块：第三方python 中文词云</li>
+<li>Learn80.py： matplotlib模块：画曲线图，散点图，直方图</li>
+<li>Learn81.py： matplotlib模块：画动态曲线图</li>
 </ul>
