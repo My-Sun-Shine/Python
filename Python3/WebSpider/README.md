@@ -6,6 +6,7 @@
 <li>GitHub_Login.py：   使用requests库的Session方法保持同一个cookie，模拟GitHub登录</li>
 <li>Glory_of_Kings.py： 使用urllib库或者requests库，王者荣耀皮肤下载</li>
 <li>MaoYan_Top100.py：  使用requests库爬取猫眼电影排行榜前100，存储到txt文件中</li>
+<li>Dianping.py         爬取大众点评数据，并且解决字体和数字反爬</li>
 <li>36kr.py：           爬取36kr的最新文章信息并保存至Mysql数据库，并把标题存储到txt文件中，并生成词云</li>
 <li>cnblogs.sql：       Cnblogs_1.py和Cnblogs_2.py使用MySQL数据库表</li>
 <li>kr.sql：            kr.py使用MySQL数据库表</li>
