@@ -9,6 +9,7 @@
 <li>Dianping.py         爬取大众点评数据，并且解决字体和数字反爬</li>
 <li>36kr.py：           爬取36kr的最新文章信息并保存至Mysql数据库，并把标题存储到txt文件中，并生成词云</li>
 <li>GuaZi.py：          requests+BeautifulSoup抓取瓜子二手车五个城市的数据，共1万条数据，保存到csv文件</li>
+<li>YouKu_DanMu.py：    爬取网页版优酷《夏洛特烦恼》的弹幕数据并制作词云图</li>
 <li>cnblogs.sql：       Cnblogs_1.py和Cnblogs_2.py使用MySQL数据库表</li>
 <li>kr.sql：            kr.py使用MySQL数据库表</li>
 </ul>
