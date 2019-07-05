@@ -7,4 +7,7 @@
 <li>LS04.py：分析Robots协议</li>
 <li>LS05.py：requests库的基本使用：get、post</li>
 <li>LS06.py：requests库操作cookies</li>
+<li>LS07.py：XPath的使用，即lxml库，通过XPath获取元素节点</li>
+<li>LS08.py：BeautifulSoup解析库的使用：节点选择器，方法选择器，CSS选择器</li>
+<li>LS09.py：PyQuery库的操作：CSS选择器，伪类选择器，节点操作</li>
 </ul>
