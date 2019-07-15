@@ -4,7 +4,7 @@
 <li>Learn：         Python 学习记录</li>
 <li>Learn-A：       Python 学习记录</li>
 <li>Learn-Spider：  Python3 网络爬虫开发实战学习</li>
-<li>Scrapy_A：      Scrapy网络爬虫框架学习</li>
+<li>Scrapy_Learn：  Scrapy网络爬虫框架学习</li>
 <li>Math：          算法学习记录
 <ul>
 <li>alg01.py： 汉诺塔算法</li>
