@@ -7,11 +7,12 @@
 
 from scrapy import Field, Item
 
-class NewsItem(Item):
-    title = Field()
-    url = Field()
-    text = Field()
-    datetime = Field()
-    source = Field()
-    website = Field()
 
+class NewsItem(Item):
+    """新闻数据结构"""
+    title = Field()  # 标题
+    url = Field()  # 链接
+    text = Field()  # 正文
+    datetime = Field()  # 发布时间
+    source = Field()  # 来源
+    website = Field()  # 站点名称

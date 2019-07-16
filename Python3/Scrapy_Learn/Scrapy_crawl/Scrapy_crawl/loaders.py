@@ -9,10 +9,12 @@ from scrapy.loader import ItemLoader
 from scrapy.loader.processors import TakeFirst, Join, Compose
 
 
-class NewsLoader(ItemLoader):
+class NewsLoader(ItemLoader):  # 继承ItemLoader
+    """TakeFirst返回列表的第一个非空值，类似extract_first()的功能"""
     default_output_processor = TakeFirst()
 
 
-class ChinaLoader(NewsLoader):
+class ChinaLoader(NewsLoader):  # 继承NewsLoader
+    """每个输入值经过Join()，再经过strip()"""
     text_out = Compose(Join(), lambda s: s.strip())
     source_out = Compose(Join(), lambda s: s.strip())
