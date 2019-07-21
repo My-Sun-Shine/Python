@@ -10,5 +10,6 @@
 <li>LS07.py：XPath的使用，即lxml库，通过XPath获取元素节点</li>
 <li>LS08.py：BeautifulSoup解析库的使用：节点选择器，方法选择器，CSS选择器</li>
 <li>LS09.py：PyQuery库的操作：CSS选择器，伪类选择器，节点操作</li>
+<li>LS10.py：数据保存到txt，csv，json文件</li>
 <li>LS11.py：pytesseract库和tesserocr库识别验证码图片</li>
 </ul>
