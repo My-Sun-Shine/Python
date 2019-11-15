@@ -8,4 +8,8 @@
 <li>LA05.py：重载len、abs、str、repr、bool函数</li>
 <li>LA06.py：Python 重载内置运算符+ +=</li>
 <li>LA07.py：自定义一个复数类 x+yj</li>
+<li>LA08.py：Python查询MongoDB数据库</li>
+<li>LA09.py：Python聚合MongoDB数据以及distinct函数</li>
+<li>LA10.py：Python在MongoDB中的CDUR操作</li>
+<li>LA11.py：Python实现MongoDB的GridFS存储</li>
 </ul>
