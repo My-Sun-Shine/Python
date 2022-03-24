@@ -1,0 +1,17 @@
+/Python2/venv
+/Python2/.idea
+/Python3/.idea
+/Python3/.vscode
+/Python3/Learn/chromedriver.exe
+/Python3/Machine_Learning/cache
+
+/Python3/Scrapy_Learn/Scrapy_crawl/.idea
+/Python3/Scrapy_Learn/Scrapy_A/Scrapy_A/__pycache__/*.pyc
+/Python3/Scrapy_Learn/Scrapy_A/Scrapy_A/spiders/__pycache__/*.pyc
+/Python3/Scrapy_Learn/Scrapy_A/logs/quotes/*.log
+
+/Python3/WebSpider/.idea
+/Python3/WebSpider/img
+/Python3/WebSpider/jiepai
+/Python3/WebSpider/data.csv
+/Python3/WebSpider/chromedriver.exe
